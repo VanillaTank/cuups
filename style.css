@@ -11,7 +11,7 @@ body {
 }
 .wrapper {
     height: 100vh;
-    max-width: 800px;
+    max-width: 900px;
     display: flex;
     flex-direction: column;
     padding: 0 15px;
